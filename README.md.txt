@@ -1,0 +1,1 @@
+BU uygulama verilen arraydeki tüm istenilen sayıyı diger sayıdan çıkarır eger sonuc 0 ise ture döner.
